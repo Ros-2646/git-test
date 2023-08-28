@@ -7,3 +7,4 @@ BAHAHAHAHAHA
 it's interesting
 
 @Ros-2646
+[this test](https://tinyurl.com/Lol-math)
