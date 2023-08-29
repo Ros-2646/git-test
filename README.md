@@ -30,3 +30,4 @@ ln -s ~/source/git-quick-stats/git-quick-stats ~/bin/git-quick-stats
 chmod +x ~/bin/git-quick-stats
 export PATH=${PATH}:~/bin
 git log --author="Ros-2646" --pretty=tformat: --numstat
+list
