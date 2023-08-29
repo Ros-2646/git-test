@@ -10,7 +10,7 @@ it's interesting
 [this test](https://tinyurl.com/Lol-math)
 test 1
 
-
+$ git shortlog -sn
 
 
 - line 1
