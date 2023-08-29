@@ -18,3 +18,4 @@ $ git shortlog -sn
     - line 3
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Ros-2646=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ros-2646)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ros-2646&show_icons=true&theme=radical)
