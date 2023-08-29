@@ -22,3 +22,10 @@ $ git shortlog -sn
 git-quick-stats
 (https://github.com/arzzen/git-quick-stats)
 git-quick-test
+mkdir ~/source
+cd ~/source
+git clone git@github.com:arzzen/git-quick-stats.git
+mkdir ~/bin
+ln -s ~/source/git-quick-stats/git-quick-stats ~/bin/git-quick-stats
+chmod +x ~/bin/git-quick-stats
+export PATH=${PATH}:~/bin
